@@ -1,0 +1,71 @@
+<html>
+<head><title>моя перша веб-сторінка</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body background="№1.jfif" text=#0000CC> <font size=22>
+<p align=center> Шкільні події <p align=center>
+<marquee> <img src="images.jfif" width=100 height=50>  </marquee>
+<img src="1.jpg" height=250>
+<marquee direction="right"> <img src="Flag_of_Odessa.jpg" width=100 height=50>  </marquee> <p>
+<button style=" color: #FFF;   background: rgb(204,0,0);font-size: 22px; width: 200pt;     height: 10%"; onclick="document.location='index №1.htm'">До головної сторінки</button>
+<button style=" color: #FFF;   background: rgb(0,153,0);font-size: 22px; width: 200pt;     height: 10%"; onclick="document.location='index №2.htm'">До роскладу</button>
+   
+ <p><h2>
+<div style="display: flex; align-items: center; flex-direction: row">
+<div>
+<img src="школа 5.jpg" width=350 height=470>
+<div>Конкурс поробок</div>
+</div>
+<div>
+<img src="школа 8.jpg" width=350 height=470>
+<div>Квітковий конкурс</div>
+</div>
+<div>
+<img src="школа 11.jpg" width=350 height=470>
+<div>Привітаня ветеранів</div>
+</div>
+<div>
+<img src="школа 12.jpg" width=350 height=470>
+<div>Привітаня ветеранів</div>
+</div>
+</div>
+<div style="display: flex; align-items: center; flex-direction: row">
+<div>
+<img src="школа 1.jpg" width=465 height=370>
+<div>Конкурс поробок</div>
+</div>
+<div>
+<img src="школа 2.jpg" width=465 height=370>
+<div>Конкурс поробок</div>
+</div>
+<div>
+<img src="школа 3.jpg" width=465 height=370>
+<div>Конкурс поробок</div>
+</div>
+</div>
+<div style="display: flex; align-items: center; flex-direction: row">
+<div>
+<img src="школа 4.jpg" width=465 height=370>
+<div>Конкурс поробок</div>
+</div>
+<div>
+<img src="школа 6.jpg" width=465 height=370>
+<div>Перше Вересня</div>
+</div>
+<div>
+<img src="школа 7.jpg" width=465 height=370>
+<div>Шкілне прибираня</div>
+</div>
+</div>
+<div style="display: flex; align-items: center; flex-direction: row">
+<div>
+<img src="школа 9.jpg" width=465 height=370>
+<div>Квітковий конкурс</div>
+</div>
+<div>
+<img src="школа 10.jpg" width=465 height=370>
+<div>Спортивні змаганя</div>
+</div>
+</div></h2>
+</body>
+</html>
